@@ -1,0 +1,2 @@
+SELECT * FROM employees
+WHERE salary NOT BETWEEN 4000 AND 7000 AND job_id != 16;
